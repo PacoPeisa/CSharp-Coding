@@ -1,0 +1,14 @@
+D:\pr\C#BookOne\bin\Debug\net8.0\C#BookOne.exe
+D:\pr\C#BookOne\bin\Debug\net8.0\C#BookOne.deps.json
+D:\pr\C#BookOne\bin\Debug\net8.0\C#BookOne.runtimeconfig.json
+D:\pr\C#BookOne\bin\Debug\net8.0\C#BookOne.dll
+D:\pr\C#BookOne\bin\Debug\net8.0\C#BookOne.pdb
+D:\pr\C#BookOne\obj\Debug\net8.0\C#BookOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\pr\C#BookOne\obj\Debug\net8.0\C#BookOne.AssemblyInfoInputs.cache
+D:\pr\C#BookOne\obj\Debug\net8.0\C#BookOne.AssemblyInfo.cs
+D:\pr\C#BookOne\obj\Debug\net8.0\C#BookOne.csproj.CoreCompileInputs.cache
+D:\pr\C#BookOne\obj\Debug\net8.0\C#BookOne.dll
+D:\pr\C#BookOne\obj\Debug\net8.0\refint\C#BookOne.dll
+D:\pr\C#BookOne\obj\Debug\net8.0\C#BookOne.pdb
+D:\pr\C#BookOne\obj\Debug\net8.0\C#BookOne.genruntimeconfig.cache
+D:\pr\C#BookOne\obj\Debug\net8.0\ref\C#BookOne.dll
