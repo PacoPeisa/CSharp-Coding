@@ -1,0 +1,14 @@
+D:\pr\C#BookTwo\bin\Debug\net8.0\C#BookTwo.exe
+D:\pr\C#BookTwo\bin\Debug\net8.0\C#BookTwo.deps.json
+D:\pr\C#BookTwo\bin\Debug\net8.0\C#BookTwo.runtimeconfig.json
+D:\pr\C#BookTwo\bin\Debug\net8.0\C#BookTwo.dll
+D:\pr\C#BookTwo\bin\Debug\net8.0\C#BookTwo.pdb
+D:\pr\C#BookTwo\obj\Debug\net8.0\C#BookTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\pr\C#BookTwo\obj\Debug\net8.0\C#BookTwo.AssemblyInfoInputs.cache
+D:\pr\C#BookTwo\obj\Debug\net8.0\C#BookTwo.AssemblyInfo.cs
+D:\pr\C#BookTwo\obj\Debug\net8.0\C#BookTwo.csproj.CoreCompileInputs.cache
+D:\pr\C#BookTwo\obj\Debug\net8.0\C#BookTwo.dll
+D:\pr\C#BookTwo\obj\Debug\net8.0\refint\C#BookTwo.dll
+D:\pr\C#BookTwo\obj\Debug\net8.0\C#BookTwo.pdb
+D:\pr\C#BookTwo\obj\Debug\net8.0\C#BookTwo.genruntimeconfig.cache
+D:\pr\C#BookTwo\obj\Debug\net8.0\ref\C#BookTwo.dll

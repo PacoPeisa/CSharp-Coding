@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#BookTwo/1.0.0": {
+        "runtime": {
+          "C#BookTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#BookTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
