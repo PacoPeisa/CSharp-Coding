@@ -150,6 +150,7 @@
     {
         static void Main(string[] args)
         {
+            /*
             int[] array = { 5, 7, 1, 3, 9, 1, 44, 9 };
 
             Console.WriteLine("Array before BubbleSort : ");
@@ -177,6 +178,9 @@
             Exercise.PascalTriangle();
             Console.WriteLine();
 
+            Training.SelectionSort(array);
+            Console.WriteLine();
+
 
             Console.Write("Enter first array (split with intervals): ");
             int[] array1 = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
@@ -194,7 +198,24 @@
                 Console.WriteLine("Arrays are different");
             }
 
+            */
 
+            int[] sortedArray = { 1, 2, 3, 4, 5, 6, 7, 8, };
+
+            int target = 3;
+
+            Console.WriteLine(string.Join(", ", sortedArray));
+
+            int index = Training.BinarySearch(sortedArray, target);
+
+            if(index != -1)
+            {
+                Console.WriteLine($"the element {target} has been found at {index} index");
+            }
+            else
+            {
+                Console.WriteLine($"The element {target} has not been found");
+            }
 
         }
     }
