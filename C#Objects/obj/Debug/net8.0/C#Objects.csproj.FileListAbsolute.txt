@@ -1,0 +1,14 @@
+D:\pr\C#Objects\bin\Debug\net8.0\C#Objects.exe
+D:\pr\C#Objects\bin\Debug\net8.0\C#Objects.deps.json
+D:\pr\C#Objects\bin\Debug\net8.0\C#Objects.runtimeconfig.json
+D:\pr\C#Objects\bin\Debug\net8.0\C#Objects.dll
+D:\pr\C#Objects\bin\Debug\net8.0\C#Objects.pdb
+D:\pr\C#Objects\obj\Debug\net8.0\C#Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\pr\C#Objects\obj\Debug\net8.0\C#Objects.AssemblyInfoInputs.cache
+D:\pr\C#Objects\obj\Debug\net8.0\C#Objects.AssemblyInfo.cs
+D:\pr\C#Objects\obj\Debug\net8.0\C#Objects.csproj.CoreCompileInputs.cache
+D:\pr\C#Objects\obj\Debug\net8.0\C#Objects.dll
+D:\pr\C#Objects\obj\Debug\net8.0\refint\C#Objects.dll
+D:\pr\C#Objects\obj\Debug\net8.0\C#Objects.pdb
+D:\pr\C#Objects\obj\Debug\net8.0\C#Objects.genruntimeconfig.cache
+D:\pr\C#Objects\obj\Debug\net8.0\ref\C#Objects.dll
